@@ -1,0 +1,17 @@
+.main-counter{
+    display:flex;
+ 
+}
+.counter-button{
+    border:none;
+    width:4rem;
+    height:2.7rem ; 
+    border:1px solid brown;
+    color:whitesmoke;
+    background-color: brown;
+}
+.counter-input{
+    width:6rem;
+    height:2.4rem;
+    border:1px solid brown;
+}
